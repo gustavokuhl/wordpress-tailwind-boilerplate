@@ -10,8 +10,8 @@ Antes de começar, certifique-se de ter o Node.js e o npm instalados em sua máq
 
 1. Clone este repositório para o seu ambiente local:
 ```shell
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/gustavokuhl/wordpress-tailwind-boilerplate
+cd wordpress-tailwind-boilerplate
 ```
 
 2. Instale as dependências do projeto utilizando o npm:
